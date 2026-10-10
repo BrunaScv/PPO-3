@@ -1,0 +1,18 @@
+*{
+
+}
+
+body{
+    
+    background-color: rgb(0, 0,0);
+}
+
+.caixadedialogo{
+    display: flex;
+   background-color: aliceblue;
+   justify-content: center;
+   align-items: center;
+   height: 25vh;
+   width: 200vh; 
+   
+}
